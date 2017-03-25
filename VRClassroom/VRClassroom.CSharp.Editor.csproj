@@ -139,6 +139,10 @@
       <Project>{2D533AAA-1380-18F4-70DB-49A929AA4AEB}</Project>
       <Name>VRClassroom.CSharp.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="VRClassroom.CSharp.csproj">
+      <Project>{466BEF89-905C-3C1D-7234-50E035904960}</Project>
+      <Name>VRClassroom.CSharp</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />

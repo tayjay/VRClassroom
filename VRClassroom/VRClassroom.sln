@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRClassroom.CSharp.Plugins", "VRClassroom.CSharp.Plugins.csproj", "{2D533AAA-1380-18F4-70DB-49A929AA4AEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRClassroom.CSharp", "VRClassroom.CSharp.csproj", "{466BEF89-905C-3C1D-7234-50E035904960}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRClassroom.CSharp.Editor", "VRClassroom.CSharp.Editor.csproj", "{3DC94047-04D1-BE23-5183-3C410586EEE5}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{2D533AAA-1380-18F4-70DB-49A929AA4AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D533AAA-1380-18F4-70DB-49A929AA4AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D533AAA-1380-18F4-70DB-49A929AA4AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466BEF89-905C-3C1D-7234-50E035904960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466BEF89-905C-3C1D-7234-50E035904960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466BEF89-905C-3C1D-7234-50E035904960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466BEF89-905C-3C1D-7234-50E035904960}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3DC94047-04D1-BE23-5183-3C410586EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DC94047-04D1-BE23-5183-3C410586EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC94047-04D1-BE23-5183-3C410586EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
